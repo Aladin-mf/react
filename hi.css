@@ -97,7 +97,7 @@ body {
   .center .logo {
     width: 15rem;
     height: 6rem;
-    border: .6rem solid tomato;
+    border: .6rem solid #59d3ff;
     border-radius: 50%;
     position: relative;
     display: -ms-grid;
@@ -109,7 +109,7 @@ body {
   .center .logo .crc {
     width: 2rem;
     height: 2rem;
-    background-color: tomato;
+    background-color: #59d3ff;
     border-radius: 50%;
   }
 }
